@@ -1,0 +1,16 @@
+
+node_modules/
+.next/
+out/
+dist/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
